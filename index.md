@@ -24,7 +24,7 @@ Selon la difficulté de la réparation envisagée, le prix de celle-ci pourrait 
 
 # À propos de moi
 
-Fort de 7 ans d'expérience en informatique, j'en maîtrise beaucoup d'aspect :
+Fort de 7 ans d'expérience en informatique, j'en maîtrise beaucoup d'aspects :
 
 * Développement d'applications
 * Fonctionnement détaillé, installation et configuration de Linux et Windows

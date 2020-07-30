@@ -1,10 +1,10 @@
 Jeune étudiant en informatique propose les services suivants :
 
-| Service            | Prix               |
-| :----------------- | -----------------: |
-| Conseil à distance | Gratuit            |
-| Déplacement        | 5€                 |
-| Réparation         | à partir de 10€ \  |
+Service            | Prix
+------------------ | ---------------
+Conseil à distance | Gratuit
+Déplacement        | 10€
+Réparation         | à partir de 10€
 
 # Conseil à distance
 

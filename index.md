@@ -13,14 +13,15 @@ Une adresse email est mise à disposition afin d'établir le contact.
 <royern@etu.univ-grenoble-alpes.fr>
 
 N'hésitez pas à m'envoyer un message, en détaillant au maximum le problème que vous rencontrez.
+Par exemple, si le problème concerne un ordinateur ou un téléphone, précisez la marque et le modèle de l'appareil.
 
 # Déplacement
 
-S'il est conclu qu'un déplacement est nécéssaire pour préciser le diagnostique ou effectuer d'éventuelles réparations, nous conviendrons ensemble d'un rendez-vous dans Grenoble.
+S'il est conclu qu'un déplacement est nécéssaire pour préciser le diagnostic ou effectuer d'éventuelles réparations, nous conviendrons ensemble d'un rendez-vous dans Grenoble.
 
 # Réparation
 
-Selon le diagnostique, une réparation sera parfois envisagée. Je ne demanderai pas de paiement si la réparation échoue.
+En fonction du problème, une réparation sera parfois envisagée. Je ne demanderai pas de paiement si la réparation échoue.
 
 Selon la difficulté de la réparation envisagée, le prix de celle-ci pourrait dépasser 10€, auquel cas un devis exact sera formulé avant toute tentative de réparation.
 

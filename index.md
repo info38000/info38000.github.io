@@ -25,8 +25,10 @@ Selon la difficulté de la réparation envisagée, le prix de celle-ci pourrait 
 # À propos de moi
 
 Fort de 7 ans d'expérience en informatique, j'en maîtrise beaucoup d'aspect :
+
 * Développement d'applications
 * Fonctionnement détaillé, installation et configuration de Linux et Windows
 * Problématiques de sécurité
 * Composition et fonctionnement ordinateurs
+
 Mon expertise se situe plus côté logiciel, cependant je suis aussi apte à effectuer des réparations matérielles.

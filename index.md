@@ -16,7 +16,7 @@ N'hésitez pas à m'envoyer un message, en détaillant au maximum le problème q
 
 # Déplacement
 
-S'il est conclu qu'un déplacement est nécéssaire, nous conviendrons ensemble d'un rendez-vous dans Grenoble, afin de préciser le diagnostique ou d'effectuer d'éventuelles réparations.
+S'il est conclu qu'un déplacement est nécéssaire pour préciser le diagnostique ou effectuer d'éventuelles réparations, nous conviendrons ensemble d'un rendez-vous dans Grenoble.
 
 # Réparation
 

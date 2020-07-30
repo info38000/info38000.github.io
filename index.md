@@ -13,7 +13,6 @@ Une adresse email est mise à disposition afin d'établir le contact.
 <royern@etu.univ-grenoble-alpes.fr>
 
 N'hésitez pas à m'envoyer un message, en détaillant au maximum le problème que vous rencontrez.
-Par exemple, si le problème concerne un ordinateur ou un téléphone, précisez la marque et le modèle de l'appareil.
 
 # Déplacement
 

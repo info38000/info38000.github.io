@@ -26,6 +26,7 @@ Selon la difficulté de la réparation envisagée, le prix de celle-ci pourrait 
 
 Fort de 7 ans d'expérience en informatique, j'en maîtrise beaucoup d'aspects :
 
+* Création de sites web sur mesure
 * Développement d'applications
 * Fonctionnement détaillé, installation et configuration de Linux et Windows
 * Problématiques de sécurité

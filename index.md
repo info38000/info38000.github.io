@@ -21,7 +21,7 @@ S'il est conclu qu'un déplacement est nécéssaire pour préciser le diagnostic
 
 # Réparation
 
-En fonction du problème, une réparation sera parfois envisagée. Je ne demanderai pas de paiement si la réparation échoue.
+En fonction du problème, une réparation sera parfois envisagée. Je ne demanderai pas de paiement pour la réparation si celle-ci échoue.
 
 Selon la difficulté de la réparation envisagée, le prix de celle-ci pourrait dépasser 10€, auquel cas un devis exact sera formulé avant toute tentative de réparation.
 

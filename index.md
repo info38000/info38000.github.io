@@ -8,9 +8,11 @@ Réparation         | à partir de 10€
 
 # Conseil à distance
 
-Une adresse email est mise à disposition afin d'établir le contact. N'hésitez pas à m'envoyer un message, en incluant un maximum de détails et en explicitant bien le problème que vous rencontrez.
+Une adresse email est mise à disposition afin d'établir le contact.
 
 <royern@etu.univ-grenoble-alpes.fr>
+
+N'hésitez pas à m'envoyer un message, en détaillant au maximum le problème que vous rencontrez.
 
 # Déplacement
 
